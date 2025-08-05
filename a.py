@@ -16,7 +16,7 @@ print("Cuantos nombres desea ingresar?")
 cont =int(input())
 for a in range(cont):
     codigo = input("")
-    nombres[1]["nombres"].append(codigo)
+    nombres[1]["nombres"]=
 
 resultado = quick_sort(nombres)
 print(resultado)
